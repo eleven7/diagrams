@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T09:34:36.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="3tqKMywMHKz8gUZuH78d" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T09:36:17.530Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="tsY5OPRL17Wj7oPFzqzS" version="20.3.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="2962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1505,7 +1505,7 @@
             <mxRectangle width="143" height="35" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFwDsU0tX_jAxqqcdt1s-93" value="图层iserver（bim_iserver_config）" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="TFwDsU0tX_jAxqqcdt1s-93" value="图层iserver（bim_iserver_config）" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="1130" y="480" width="250" height="150" as="geometry" />
         </mxCell>
         <mxCell id="TFwDsU0tX_jAxqqcdt1s-94" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TFwDsU0tX_jAxqqcdt1s-93">
