@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-15T09:26:51.629Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="9coLMX73Hi3U-Rej-p3S" version="20.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-15T09:28:33.320Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.27" etag="pFD682J-VVJySyEclwZR" version="20.3.0" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1422" dy="2962" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -53,18 +53,6 @@
               <mxPoint x="500" y="-1125" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="dzGIcmRMJcthKxyKeev5-113" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="dzGIcmRMJcthKxyKeev5-114" target="dzGIcmRMJcthKxyKeev5-122" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="670" y="-1160" as="sourcePoint" />
-            <mxPoint x="930" y="-1350" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="640" y="-1260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="dzGIcmRMJcthKxyKeev5-122" value="通用登录服务" style="swimlane;whiteSpace=wrap;startSize=23;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="552.5" y="-1450" width="280" height="120" as="geometry" />
         </mxCell>
         <mxCell id="dzGIcmRMJcthKxyKeev5-125" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="dzGIcmRMJcthKxyKeev5-123" target="dzGIcmRMJcthKxyKeev5-116" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1442,11 +1430,6 @@
             <mxRectangle width="80" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFwDsU0tX_jAxqqcdt1s-460" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TFwDsU0tX_jAxqqcdt1s-34">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680" y="-60" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="TFwDsU0tX_jAxqqcdt1s-34" value="图层类型（bim_layer_type）" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fillColor=#f8cecc;strokeColor=#b85450;labelPosition=center;verticalLabelPosition=top;verticalAlign=bottom;labelBackgroundColor=#F19C99;labelBorderColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="100" width="260" height="220" as="geometry" />
         </mxCell>
@@ -1633,7 +1616,7 @@
             <mxRectangle width="90" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFwDsU0tX_jAxqqcdt1s-118" value="参数配置表（sys_config）" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="TFwDsU0tX_jAxqqcdt1s-118" value="参数配置表（sys_config）" style="shape=table;startSize=20;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="882.5" y="-160" width="247.5" height="110" as="geometry" />
         </mxCell>
         <mxCell id="TFwDsU0tX_jAxqqcdt1s-119" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TFwDsU0tX_jAxqqcdt1s-118">
@@ -1873,7 +1856,7 @@
             <mxRectangle width="80" height="20" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFwDsU0tX_jAxqqcdt1s-172" value="场景--参数配置关联（bim_scene_sysconfig）" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;" vertex="1" parent="1">
+        <mxCell id="TFwDsU0tX_jAxqqcdt1s-172" value="场景--参数配置关联（bim_scene_sysconfig）" style="shape=table;startSize=28;container=1;collapsible=0;childLayout=tableLayout;fontStyle=1;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="230" y="-160" width="260" height="108" as="geometry" />
         </mxCell>
         <mxCell id="TFwDsU0tX_jAxqqcdt1s-173" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="TFwDsU0tX_jAxqqcdt1s-172">
@@ -2158,8 +2141,8 @@
             <mxRectangle width="90" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TFwDsU0tX_jAxqqcdt1s-248" value="&lt;h1&gt;公用字段&lt;/h1&gt;&lt;div&gt;add_date: 新增时间&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="620" y="-230" width="190" height="70" as="geometry" />
+        <mxCell id="TFwDsU0tX_jAxqqcdt1s-248" value="&lt;h1&gt;公用字段&lt;/h1&gt;&lt;div&gt;add_date: 新增时间&lt;/div&gt;&lt;div&gt;is_del: 是否删除 默认为0&lt;/div&gt;" style="text;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="620" y="-240" width="190" height="90" as="geometry" />
         </mxCell>
         <mxCell id="TFwDsU0tX_jAxqqcdt1s-254" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.017;entryY=-0.087;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="TFwDsU0tX_jAxqqcdt1s-177" target="TFwDsU0tX_jAxqqcdt1s-127">
           <mxGeometry relative="1" as="geometry" />
